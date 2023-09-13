@@ -1,4 +1,4 @@
-# Jeon's GitHub!!! 👋
+# Welcome, Jeon's GitHub!
 
 ## - Tech Stack -
 
@@ -6,7 +6,6 @@
 <div>
   <img src="https://img.shields.io/badge/Java-EA7E20?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=csharp&logoColor=white"/>
 </div>
 <h3>FRAMEWORK</h3>
 <div>
