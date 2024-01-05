@@ -11,8 +11,15 @@
 </div>
 
 ---
-
 <div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsfully)](https://solved.ac/htw1203)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-HyeonSeo&langs_count=10&theme=dark)](https://github.com/J-HyeonSeo/github-readme-stats)
+</div>
+<div align="center">
+
+---
   
 ### Tech Stack
 
