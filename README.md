@@ -8,6 +8,12 @@
 
 #### Blog : https://blog.naver.com/jhsfully
 
+새롭고 재밌는 도전을 추구하는 개발자입니다.
+<br>
+Java언어를 사용한 백엔드 개발자입니다. 
+<br>
+React와 TypeScript를 사용하여 프론트개발도 하고 있습니다.
+
 </div>
 
 ---
