@@ -21,7 +21,7 @@ React와 TypeScript를 사용하여 프론트개발도 하고 있습니다.
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsfully)](https://solved.ac/jhsfully)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-HyeonSeo&langs_count=10&theme=dark)](https://github.com/J-HyeonSeo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Hyeonseo&langs_count=10&theme=dark)](https://github.com/J-HyeonSeo/github-readme-stats)
 </div>
 <div align="center">
 
